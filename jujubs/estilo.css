@@ -30,11 +30,12 @@ footer{
     background-color: lightblue;
     height: 8rem;
     margin-top: 10% ;
+    list-style: none;
     text-align: center;
     list-style: none;
-    text-align: justify;
-    list-style: none;
     margin-right: 0em;
+    font-size: x-large;
+    list-style-type: none;
 }
 
 .botoes{
@@ -50,4 +51,8 @@ footer{
     align-items: center;
     margin-left: 10rem;
     margin-right: 10rem;
+}
+
+h5{
+    font-size: larger;
 }
